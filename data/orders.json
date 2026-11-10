@@ -1,0 +1,34 @@
+[
+  {
+    "fullName": "Rohit Sharma",
+    "email": "rohit@testcorp.in",
+    "phone": "+91 98765 43210",
+    "serviceId": "web-development",
+    "projectTitle": "Futuristic 3D Corporate Portal",
+    "projectDescription": "We need an advanced Three.js 3D web platform with custom backend and responsive mobile layout.",
+    "budgetRange": "₹50,000 - ₹1,00,000",
+    "preferredRequirements": "React, Three.js, completed within 4 weeks",
+    "additionalMessage": "",
+    "orderId": "WGP-20261110-04MC",
+    "createdAt": "2026-11-10T16:08:21.945Z",
+    "status": "PENDING_REVIEW",
+    "emailNotificationStatus": "FAILED",
+    "emailNotificationDetails": "Email delivery failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-c504a6af519sm123347566b.87 - gsmtp. Order is securely stored in database."
+  },
+  {
+    "fullName": "David Miller",
+    "email": "david.miller@enterprise.com",
+    "phone": "+1 415-555-2671",
+    "serviceId": "web-development",
+    "projectTitle": "Global Enterprise 3D Analytics Web App",
+    "projectDescription": "We require a full-stack production-grade 3D dashboard for our engineering division with real-time API integrations and cloud database storage.",
+    "budgetRange": "$3,000 - $6,000",
+    "preferredRequirements": "React 19, Three.js, Node.js backend, automated email notifications, 8-week delivery",
+    "additionalMessage": "",
+    "orderId": "WGP-20261105-TEC5",
+    "createdAt": "2026-11-05T17:47:04.322Z",
+    "status": "PENDING_REVIEW",
+    "emailNotificationStatus": "CONFIG_REQUIRED",
+    "emailNotificationDetails": "Saved to database. Live SMTP dispatch requires GMAIL_APP_PASSWORD. Notification staged for wgpdevelopers@gmail.com."
+  }
+]

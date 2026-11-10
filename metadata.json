@@ -1,0 +1,6 @@
+{
+  "name": "WGP Developer's",
+  "description": "Official website for WGP Developer's. Build • Innovate • Grow. Software development, AI solutions, web & mobile engineering, and customer ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
